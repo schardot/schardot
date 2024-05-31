@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schardot
 - 👀 I’m a student at 42 Berlin
-- 🌱 I’m currently in rank 01 - ft_printf 
+- 🌱 I’m currently in rank 01 - ft_printf and rank 01 - get_next_line
 - 📚 I’m currently learning C, Shell
 
 # 42 projects
