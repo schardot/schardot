@@ -6,3 +6,5 @@
 # 42 projects
 
 [![Libft bonus badge](https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png?raw=true)](https://github.com/schardot/42_core/tree/main/rank00/libft)
+[![GNL badge](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png)](https://github.com/schardot/42_core/tree/main/rank01/get_next_line)
+
