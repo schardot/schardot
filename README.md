@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schardot
 - 👀 I’m a student at 42 Berlin
-- 🌱 I’m currently in rank 01 - Born2BeRoot
+- 🌱 I’m currently in rank 01 - Born2BeRoot and rank02 - push_swap
 - 📚 I’m currently learning C, Shell
 
   [![nleite-s's 42 stats](https://badge.mediaplus.ma/colorfulwaves/nleite-s)](https://github.com/oakoudad/badge42)
