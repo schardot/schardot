@@ -11,4 +11,4 @@
 [![ft_printf badge](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/schardot/42_core/tree/main/rank01/ft_printf)
 [![GNL badge](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png)](https://github.com/schardot/42_core/tree/main/rank01/get_next_line)
 [![B2BR badge](https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png)](https://github.com/schardot/42_core/tree/main/rank01/born2beroot)
-
+[![Minitalk badge](https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png)](https://github.com/schardot/42_core/tree/main/rank02/minitalk)
