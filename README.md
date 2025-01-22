@@ -14,3 +14,5 @@
 [![Minitalk badge](https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png)](https://github.com/schardot/42_core/tree/main/rank02/minitalk)
 [![Pushswap badge](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/schardot/42_core/tree/main/rank02/push_swap)
 [![Solong badge](https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/schardot/42_core/tree/main/rank02/so_long)
+[![Philo badge](https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/schardot/philosophers)
+[![Minishell badge](https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/schardot/minishell)
