@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @schardot
 - 👀 I’m a student at 42 Berlin
-- 🌱 I’m currently in rank 03
 - 📚 I’m currently learning C, Shell, Go
 
   [![nleite-s's 42 stats](https://badge.mediaplus.ma/colorfulwaves/nleite-s)](https://github.com/oakoudad/badge42)
