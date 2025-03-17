@@ -33,8 +33,8 @@ Implemented efficient sorting algorithms to sort a stack of integers, minimizing
 - **Tech**: C, Algorithms, Data Structures  
 - **Key Features**: Sorting Algorithms, Stack Operations  
 
-[![B2BR badge](https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png)](https://github.com/schardot/42_core/tree/main/rank01/born2beroot)
-### 🧑‍💻 [born2beroot](https://github.com/schardot/42_core/tree/main/rank01/born2beroot)
+[![B2BR badge](https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png)](https://github.com/schardot/42_core/tree/main/rank01/Born2beroot)
+### 🧑‍💻 [born2beroot](https://github.com/schardot/42_core/tree/main/rank01/Born2beroot)
 Configured a virtual machine with strict security protocols, simulating the environment setup of a system administrator.
 
 - **Tech**: Linux, Virtual Machines, System Administration  
