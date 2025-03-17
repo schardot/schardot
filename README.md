@@ -20,7 +20,7 @@ A C function that reads one line at a time from a file descriptor, handling mult
 - **Key Features**: Memory Management, Efficient Line Reading, Buffering  
 
 [![Minishell badge](https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/schardot/minishell)
-### 🖥️ [minishell](https://github.com/schardot/minishell))  
+### 🖥️ [minishell](https://github.com/schardot/minishell)) 
 Developed a simple UNIX shell program, implementing built-in commands, pipes, redirection, and environment variable handling.
 
 - **Tech**: C, UNIX Shell, System Programming  
