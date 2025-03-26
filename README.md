@@ -6,7 +6,7 @@
 ## 🛠️ My Tech Stack  
 - **Languages**: C, Go, Python  
 - **Tools**: Git, Linux, VSCode  
-- **Databases**: MySQL 
+- **Databases**: PostgreSQL
 - **Concepts**: Data Structures, Algorithms, Networking, Systems Programming  
 
 ## 💻 Projects  
