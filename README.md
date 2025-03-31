@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @schardot
-👀 I'm a Software Engineering student at 42 Berlin, transitioning from a background in hospitality. With over **6 years of experience** in operations, I’m now channeling my problem-solving and analytical skills into backend development. I'm passionate about building scalable and efficient solutions with **C**, **Golang** and more. 🚀
+👀 I'm a Software Engineering student at 42 Berlin, transitioning from a background in hospitality. With over **6 years of experience** in operations, I’m now channeling my problem-solving and analytical skills into backend development. I'm passionate about building scalable and efficient solutions with **C**, **Golang**, **PostgreSQL**, and more. 🚀
 
-  [![nleite-s's 42 stats](https://badge.mediaplus.ma/colorfulwaves/nleite-s)](https://github.com/oakoudad/badge42)
+[![nleite-s's 42 stats](https://badge.mediaplus.ma/colorfulwaves/nleite-s)](https://github.com/oakoudad/badge42)
 
 ## 🛠️ My Tech Stack  
 - **Languages**: C, Go, Python  
@@ -11,6 +11,14 @@
 
 ## 💻 Projects  
 Here are some of the key projects I’ve worked on:
+
+[![Hotel Booking System badge](https://img.shields.io/badge/Hotel--Booking--System-Go-green)](https://github.com/schardot/hotel-booking-system)
+### 🏨 [Hotel Booking System](https://github.com/schardot/hotel-booking-system)
+A work-in-progress hotel booking system built with **Go** and **PostgreSQL**, designed to manage customer records and bookings. Features include customer management, booking management, and search functionality. Plans for future releases include user authentication and activity logging.
+
+- **Tech**: Go, PostgreSQL, Bootstrap, HTML, JavaScript  
+- **Key Features**: Customer Management, Booking Management, Search & Filters  
+- **To-Do**: Authentication, Activity Logging
 
 [![GNL badge](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png)](https://github.com/schardot/42_core/tree/main/rank01/get_next_line)
 ### 📂 [get_next_line](https://github.com/schardot/42_core/tree/main/rank01/get_next_line)
