@@ -13,8 +13,8 @@
 Here are some of the key projects I’ve worked on:
 
 [![Hotel Booking System badge](https://img.shields.io/badge/Hotel--Booking--System-Go-green)](https://github.com/schardot/hotel-booking-system)
-### 🏨 [Hotel Booking System](https://github.com/schardot/hotel-booking-system)
-A work-in-progress hotel booking system built with **Go** and **PostgreSQL**, designed to manage customer records and bookings. Features include customer management, booking management, and search functionality. Plans for future releases include user authentication and activity logging.
+### 🏨 [Hotel Booking System](https://github.com/schardot/hotel-system)
+A work-in-progress hotel internal booking system built with **Go** and **PostgreSQL**, designed to manage customer records and bookings. Features include customer management, booking management, and search functionality. Plans for future releases include user authentication and activity logging.
 
 - **Tech**: Go, PostgreSQL, Bootstrap, HTML, JavaScript  
 - **Key Features**: Customer Management, Booking Management, Search & Filters  
