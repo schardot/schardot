@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @schardot
 👀 I'm a Software Engineering student at 42 Berlin, transitioning from a background in hospitality. With over **6 years of experience** in operations, I’m now channeling my problem-solving and analytical skills into backend development. I'm passionate about building scalable and efficient solutions with **C**, **Golang**, **PostgreSQL**, and more. 🚀
 
-[![nleite-s's 42 stats](https://badge.mediaplus.ma/colorfulwaves/nleite-s)](https://github.com/oakoudad/badge42)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schardot&layout=compact)
 
 ## 🛠️ My Tech Stack  
 - **Languages**: C, Go, Python  
