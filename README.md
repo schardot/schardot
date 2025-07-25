@@ -4,7 +4,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schardot&layout=compact)
 
 ## 🛠️ My Tech Stack  
-- **Languages**: C, Go, Python  
 - **Tools**: Git, Linux, VSCode  
 - **Databases**: PostgreSQL
 - **Concepts**: Data Structures, Algorithms, Networking, Systems Programming  
