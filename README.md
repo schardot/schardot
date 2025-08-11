@@ -8,7 +8,7 @@ I love diving into complex problems, collaborating with others, and making techn
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Go, C, JavaScript, Bash  
+- **Languages**: Go, C, C++, Bash  
 - **Tools**: Git, Linux, VSCode  
 - **Databases**: PostgreSQL  
 - **Foundations**: Systems Programming, Data Structures, Networking, Concurrency  
