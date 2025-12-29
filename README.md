@@ -1,14 +1,15 @@
 ## 👋 Hi, I'm Natália Schardosim
 
-I'm a backend-focused software engineering student at 42 Berlin, transitioning from a background in hospitality. I bring 6+ years of operational experience and a passion for building robust, user-centered systems — especially in Go and C.
+I'm a backend-focused software engineering student at 42 Berlin, transitioning from a background in hospitality. I bring 6+ years of operational experience and a strong interest in building robust, user-centered backend systems, with a focus on C/C++, Python, and modern backend development.
 
-I love diving into complex problems, collaborating with others, and making technology work for real people. Currently, I'm deepening my backend and systems programming skills through hands-on projects.
+I enjoy diving into complex problems, collaborating in team environments, and making technology work reliably for real users. Currently, I’m strengthening my backend, systems programming, and applied AI skills through hands-on projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Go, C, C++, Bash  
+- **Languages**: C, C++, Python, Bash
+- **Backend**: Node.js, Fastify
 - **Tools**: Git, Linux, VSCode  
 - **Databases**: PostgreSQL  
 - **Foundations**: Systems Programming, Data Structures, Networking, Concurrency  
@@ -17,10 +18,17 @@ I love diving into complex problems, collaborating with others, and making techn
 
 ## 🚀 Selected Projects
 
-### 🏨 [Hotel Booking System](https://github.com/schardot/hotel-booking-system)  
-A WIP hotel management system in Go + PostgreSQL. Built to streamline internal operations like customer and booking management.
+### 🎮 [ft_transcendence](https://github.com/viridian-green/transcendence)  
+_in progress_
+Full-stack web application built as part of the 42 curriculum. I’m responsible for user management, including authentication, authorization, and profile handling on the backend.
 
-> _Go, PostgreSQL, Bootstrap_ • CRUD, Search, Modularity
+> _Node.js, Fastify, PostgreSQL_ • Auth, REST APIs, Backend Architecture
+
+### 🧠 [Room Assignment Advisor](https://github.com/schardot/room-assignment-advisor)
+_in progress_
+AI-assisted tool that recommends hotel room assignments by combining deterministic rules with lightweight LLM interpretation of guest notes, keeping decisions explainable and human-in-the-loop.
+
+> _Python, LangChain, CSV Processing_ • Rule Engines, AI-Assisted Systems, Explainability
 
 ### 🌐 [webserv](https://github.com/vados-sa/webserv)
 _in progress_
@@ -33,22 +41,11 @@ Custom UNIX shell built in C. Includes command parsing, redirections, environmen
 
 > _C, UNIX, Processes_ • Parser, File I/O, Process Management
 
-### 📈 [push_swap](https://github.com/schardot/42_core/tree/main/rank02/push_swap)  
-Efficiently sorts integers using limited stack operations. Focus on performance and algorithm design.
-
-> _C, Algorithms_ • Sorting, Stack Logic, Optimization
 
 ### 🧑‍🏫 [Philosophers](https://github.com/schardot/philosophers)  
 Multi-threaded simulation of the classic concurrency problem. Demonstrates thread management and deadlock avoidance.
 
 > _C, Concurrency_ • Mutexes, Threads, Simulation
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schardot&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=schardot&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
