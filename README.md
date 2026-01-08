@@ -31,7 +31,6 @@ AI-assisted tool that recommends hotel room assignments by combining determinist
 > _Python, LangChain, CSV Processing_ • Rule Engines, AI-Assisted Systems, Explainability
 
 ### 🌐 [webserv](https://github.com/vados-sa/webserv)
-_in progress_
 Custom HTTP/1.1 web server built in C++. Handles static content, request parsing, and CGI execution, inspired by NGINX.
 
 > _C++, HTTP, Networking_ • Socket Programming, Config Parsing, CGI Handling
