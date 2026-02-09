@@ -19,10 +19,8 @@ I enjoy diving into complex problems, collaborating in team environments, and ma
 ## 🚀 Selected Projects
 
 ### 🎮 [ft_transcendence](https://github.com/viridian-green/transcendence)  
-_in progress_
-Full-stack web application built as part of the 42 curriculum. I’m responsible for user management, including authentication, authorization, and profile handling on the backend.
-
-> _Node.js, Fastify, PostgreSQL_ • Auth, REST APIs, Backend Architecture
+Full-stack multiplayer Pong with real-time features. Led backend (User Service, API Gateway, Presence) and DevOps (CI/CD, Docker, secrets management). 
+> _Node.js, Fastify, PostgreSQL, Redis, Docker_ • Microservices, JWT Auth, Websockets, CI/CD
 
 ### 🧠 [Room Assignment Advisor](https://github.com/schardot/room-assignment-advisor)
 _in progress_
