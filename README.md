@@ -8,11 +8,11 @@ I enjoy diving into complex problems, collaborating in team environments, and ma
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C, C++, Python, Bash
-- **Backend**: Node.js, Fastify
-- **Tools**: Git, Linux, VSCode  
-- **Databases**: PostgreSQL  
-- **Foundations**: Systems Programming, Data Structures, Networking, Concurrency  
+- **Languages**: C, C++, Go, Python, Bash
+- **Web & Backend**: REST APIs, HTTP, WebSockets, JWT, Fastify, Node.js
+- **DevOps & Tools**: Git, Linux, VSCode, Docker, CI/CD pipeline  
+- **Databases**: PostgreSQL, Redis
+- **Foundations**: Client-server architecture, Systems Programming, Data Structures, Networking, Concurrency
 
 ---
 
