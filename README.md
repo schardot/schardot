@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Natália Schardosim
 
-I'm a backend-focused software engineering student at 42 Berlin, transitioning from a background in hospitality. I bring 6+ years of operational experience and a strong interest in building robust, user-centered backend systems, with a focus on C/C++, Python, and modern backend development.
+I'm a backend-focused software engineering student at 42 Berlin, transitioning from a background in hospitality. I bring 6+ years of operational experience and a strong interest in building robust, user-centered backend systems, with a focus on C/C++, Node.js, Go, and modern backend development.
 
 I enjoy diving into complex problems, collaborating in team environments, and making technology work reliably for real users. Currently, I’m strengthening my backend, systems programming, and applied AI skills through hands-on projects.
 
