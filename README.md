@@ -22,7 +22,7 @@ You can find more of my work on GitHub or connect with me on LinkedIn.
 
 ### 📅 [Booking System](https://github.com/schardot/booking-system)
 _in progress_
-Backend REST API built in Go for managing users, events, time slots, and bookings. Designed with a clear layered architecture (handler → service → repository), database migrations, and strong focus on error handling and code quality.
+Backend REST API built in Go for managing users, events, time slots, and bookings. Designed with a clear layered architecture (handler → service → repository), database migrations, and strong focus on code quality.
 > _Go, PostgreSQL_ • Clean Architecture, SQL Migrations (Goose), Structured Logging
 
 ### 🎮 [ft_transcendence](https://github.com/viridian-green/transcendence)  
