@@ -8,7 +8,7 @@ You can find more of my work on GitHub or connect with me on LinkedIn.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages**: C, C++, Go, Python, Bash
 - **Web & Backend**: REST APIs, HTTP, WebSockets, JWT, Fastify, Node.js
@@ -18,9 +18,9 @@ You can find more of my work on GitHub or connect with me on LinkedIn.
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 📅[Booking System](https://github.com/schardot/booking-system)
+### 📅 [Booking System](https://github.com/schardot/booking-system)
 _in progress_
 Backend REST API built in Go for managing users, events, time slots, and bookings. Designed with a clear layered architecture (handler → service → repository), database migrations, and strong focus on error handling and code quality.
 > _Go, PostgreSQL_ • Clean Architecture, SQL Migrations (Goose), Structured Logging
