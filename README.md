@@ -1,8 +1,10 @@
-## 👋 Hi, I'm Natália Schardosim
+## About the Author
 
-I'm a backend-focused software engineering student at 42 Berlin, transitioning from a background in hospitality. I bring 6+ years of operational experience and a strong interest in building robust, user-centered backend systems, with a focus on C/C++, Node.js, Go, and modern backend development.
+Hi, I'm **Natália Schardosim** — a backend-focused software engineering student at 42 Berlin, transitioning from a background in hospitality.
 
-I enjoy diving into complex problems, collaborating in team environments, and making technology work reliably for real users. Currently, I’m strengthening my backend, systems programming, and applied AI skills through hands-on projects.
+This project reflects my interest in building robust, domain-driven backend systems with Go and PostgreSQL, combining real-world operational experience with modern backend architecture practices.
+
+You can find more of my work on GitHub or connect with me on LinkedIn.
 
 ---
 
@@ -17,6 +19,11 @@ I enjoy diving into complex problems, collaborating in team environments, and ma
 ---
 
 ## 🚀 Selected Projects
+
+### 📅[Booking System](https://github.com/schardot/booking-system)
+_in progress_
+Backend REST API built in Go for managing users, events, time slots, and bookings. Designed with a clear layered architecture (handler → service → repository), database migrations, and strong focus on error handling and code quality.
+> _Go, PostgreSQL_ • Clean Architecture, SQL Migrations (Goose), Structured Logging
 
 ### 🎮 [ft_transcendence](https://github.com/viridian-green/transcendence)  
 Full-stack multiplayer Pong with real-time features. Led backend (User Service, API Gateway, Presence) and DevOps (CI/CD, Docker, secrets management). 
