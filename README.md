@@ -2,8 +2,6 @@
 
 Hi, I'm **Natália Schardosim** — a backend-focused software engineering student at 42 Berlin, transitioning from a background in hospitality.
 
-This project reflects my interest in building robust, domain-driven backend systems with Go and PostgreSQL, combining real-world operational experience with modern backend architecture practices.
-
 You can find more of my work on GitHub or connect with me on LinkedIn.
 
 ---
