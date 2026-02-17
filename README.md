@@ -7,7 +7,7 @@ Hi, I'm **Natália Schardosim** — a backend-focused software engineering stude
 ## Tech Stack
 
 - **Languages**: C, C++, Go, Python, Bash
-- **Web & Backend**: REST APIs, HTTP, WebSockets, JWT, Fastify, Node.js
+- **Web & Backend**: REST APIs, HTTP, WebSockets, Go, JWT, Fastify, Node.js
 - **DevOps & Tools**: Git, Linux, VSCode, Docker, CI/CD pipeline  
 - **Databases**: PostgreSQL, Redis
 - **Foundations**: Client-server architecture, Systems Programming, Data Structures, Networking, Concurrency
