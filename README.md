@@ -21,7 +21,7 @@ _in progress_
 Backend REST API built in Go for managing users, events, time slots, and bookings. Designed with a clear layered architecture (handler → service → repository), database migrations, and strong focus on code quality.
 > _Go, PostgreSQL_ • Clean Architecture, SQL Migrations (Goose), Structured Logging
 
-### 🎮 [ft_transcendence](https://github.com/viridian-green/transcendence)  
+### 🎮 [ft_transcendence](https://github.com/schardot/transcendence)  
 Full-stack multiplayer Pong with real-time features. Led backend (User Service, API Gateway, Presence) and DevOps (CI/CD, Docker, secrets management). 
 > _Node.js, Fastify, PostgreSQL, Redis, Docker_ • Microservices, JWT Auth, Websockets, CI/CD
 
